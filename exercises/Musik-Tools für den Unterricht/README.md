@@ -3,7 +3,7 @@
 In diesem Überblick finden Sie eine Sammlung von KI-Tools, die Sie oder ihre SchülerInnen im Musikunterricht nutzen können. 
 
 ## Spielerische Interaktion
-Die folgenden Tools ermöglichen es, auf spielerische Weise mit Musik zu interagieren. Probieren Sie es aus!
+Die folgenden Tools ermöglichen es, auf spielerische Weise mit KI zu interagieren. Probieren Sie es aus!
 
 ### PianoGenie
 PianoGenie ist ein Tool, das es ermöglicht, auf einfache Weise Klavier zu spielen. Dabei wird die Eingabe auf nur 8 Tasten reduziert. Diese Auto-Encoder-Architektur wurde auf über 1400 Klavier-Performances trainiert und bestimmt dadurch, welche Tonhöhe genau einem Tastendruck zugeordnet wird. 
