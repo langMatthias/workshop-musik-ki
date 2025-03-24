@@ -3,7 +3,7 @@
 In diesem Überblick finden Sie eine Sammlung von KI-Tools, die Sie oder ihre SchülerInnen im Musikunterricht nutzen können. 
 
 ## Spielerische Interaktion
-Die folgenden Tools ermöglichen es, auf spielerische Weise mit Musik zu interagieren.
+Die folgenden Tools ermöglichen es, auf spielerische Weise mit Musik zu interagieren. Probieren Sie es aus!
 
 ### PianoGenie
 PianoGenie ist ein Tool, das es ermöglicht, auf einfache Weise Klavier zu spielen. Dabei wird die Eingabe auf nur 8 Tasten reduziert. Diese Auto-Encoder-Architektur wurde auf über 1400 Klavier-Performances trainiert und bestimmt dadurch, welche Tonhöhe genau einem Tastendruck zugeordnet wird. 
@@ -27,9 +27,8 @@ Bei diesem kann eine Melodie eingegeben werden, die dann von der KI harmonisiert
 https://g.co/arts/3Y6HHHohoaqhAgH59
 
 
-
 ## Audio-Generierung
-Die folgenden Tools ermöglichen es, Musik direkt als Audio zu generieren. Dabei unterscheiden sich die Tools in der Art der Interaktion.
+Die folgenden Tools ermöglichen es, Musik direkt als Audio zu generieren. Dabei unterscheiden sich die Tools in der Art der Interaktion. Versuchen Sie zum Beispiel einen Song im Stile eines bestimmten Künstlers zu generieren.
 
 ### Riffusion
 Die Musikgenerierung basiert bei den meisten Modellen auf dem sogenannten Diffusion-Modell. Dabei wird ein Spektrogramm generiert, das dann hörbar gemacht wird. Mit dem Riffusion-Modell kann dieser Prozess deutlich gemacht werden.
@@ -61,7 +60,7 @@ https://huggingface.co/spaces/facebook/MusicGen
 Die folgenden Tools ermöglichen es, MIDI-Dateien zu generieren. Die MIDI-Dateien können dann weiterverarbeitet werden.
 
 ### AIVA
-AIVA (Artificial Intelligence Virtual Artist) ist ein KI-gestütztes System, das auf die Komposition spezialisiert ist. 2016 wurde AIVA als erstes System für algorithmische Komposition als Komponist bei der französischen Urheberrechtsgesellschaft SACEM registriert. Seit Januar 2019 bietet AIVA ein kommerzielles Produkt an, das kurze Kompositionen in verschiedenen Stilen generieren kann.
+AIVA (Artificial Intelligence Virtual Artist) ist ein KI-gestütztes System, das auf die Komposition spezialisiert ist. 2016 wurde AIVA als erstes System für algorithmische Komposition als Komponist bei der französischen Urheberrechtsgesellschaft SACEM registriert. AIVA kann kurze Kompositionen in verschiedenen Stilen generieren. Dabei kann von einem Stil, einer Akkordverbindung oder einer Melodie ausgegangen werden.
 
 https://www.aiva.ai/
 
